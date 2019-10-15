@@ -3,7 +3,7 @@
 Eine Auflistung und Beschreibung aller Spielkomponenten in OPT, die von Vanilla abweichen.
 
 - [Reparatur](#reparatur)
-- [GPS](#gps)
+- [GPS](#gps-system)
 
 ## Reparatur
 v0.0.1(Legacy)
