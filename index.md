@@ -2,7 +2,7 @@
 
 Eine Auflistung und Beschreibung aller Spielkomponenten in OPT, die von Vanilla abweichen.
 
-- [Reparatur](https://github.com/OperationPandoraTrigger/OperationPandoraTrigger.github.io/blob/master/index.md#reparatur)
+- [Reparatur](#Reparatur)
 - [GPS](https://github.com/OperationPandoraTrigger/OperationPandoraTrigger.github.io/blob/master/index.md#gps)
 
 ## Reparatur
