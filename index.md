@@ -57,3 +57,6 @@ Zeigt auf allen Karten (Hauptkarte, Minimap, Beammap, ...) die Positionen verbü
 Addon-Options / OPT / GPS
 
 - Einheitennamen anzeigen (Immer/Nur bei Mouseover)
+
+
+{% include_relative gps.md %}
