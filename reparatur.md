@@ -14,7 +14,7 @@ Ermöglicht die Reparatur im Feld von in der Mobilität beeinträchtigten Fhrzeu
 
 ### Reservekanister
 - Wenn einem Fahrzeug der Sprit ausgeht ( < 10%), kann der Reservekanister verwendet werden
-- Der Kanister fügt 10% Sprit hinzu
+- Der Kanister fügt 20% Sprit hinzu
 - Jedes Fahrzeug hat nur eine begrenzte Anzahl an Reservekanistern (aktuell: einen)
 - Der Reservekanister kann aufgeladen werden, indem eine Komplettreparatur an einem LKW durchgeführt wird
 - Spieler auf dem Ingenieur-Slot können als einzige den Reservekanister unbegrenzt oft einsetzen
