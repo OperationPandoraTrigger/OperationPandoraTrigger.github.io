@@ -1,3 +1,3 @@
 - [Reparatur](#reparatur)
 - [GPS](#gps-system)
-- [Erhöhter Treibstoffverbrauch](#treibstoffverbrauch)
+- [Treibstoffverbrauch](#treibstoffverbrauch)
