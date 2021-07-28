@@ -14,5 +14,5 @@ Geänderter Treibstoffverbauch bei Helis und Flugzeugen
 - Der Treibstoffverbrauch erhöht sich, bei überschreiten der Flughöhe die in den CBA Setting, um jeden Meter der überschritten wird. 
 
 ### Video
-
+[![Watch the video]](https://youtu.be/nFF8nMX06aI)
 
