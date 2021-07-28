@@ -9,3 +9,6 @@ Eine Auflistung und Beschreibung aller Spielkomponenten in OPT, die von Vanilla 
 
 
 {% include_relative gps.md %}
+
+
+{% include_relative erhohter_treibstoffverbrauch.md %}
